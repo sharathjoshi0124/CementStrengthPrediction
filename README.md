@@ -1,1 +1,1 @@
-# CementStrengthPrediction.
+# CementStrengthPrediction
